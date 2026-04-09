@@ -8,6 +8,9 @@ REPORT yrasha_alv_report .
 *---Declaration of Database table for its line type--------------------*
 TABLES: scarr.
 
+*---Calling the type pool SLIS to inherit all of its fields------------*
+TYPE-POOLS: slis.
+
 *------Declaring local structure---------------------------------------*
 TYPES: BEGIN OF ty_scarr,
          carrid   TYPE scarr-carrid,
