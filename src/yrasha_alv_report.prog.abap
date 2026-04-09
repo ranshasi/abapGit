@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT yrasha_alv_report.
+REPORT yrasha_alv_report .
 
 *---Declaration of Database table for its line type--------------------*
 TABLES: scarr.
