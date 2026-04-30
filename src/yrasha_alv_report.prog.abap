@@ -3,12 +3,9 @@
 * Testing POC: Automated ABAP Code Import using AbapGit
 *
 * Summary:
-* This program retrieves airline data from the SCARR database table 
-* and displays it in an ALV grid format, including options for layout customization.
-*
-* Notes:
-* - Key functionality includes ALV display, field catalog preparation, 
-*   and selection screen for user input.
+* This program generates an ALV report displaying airline information 
+* based on user selection criteria. The selection screen allows users 
+* to filter the data by airline code.
 *&---------------------------------------------------------------------*
 *& Report YRASHA_ALV_REPORT
 *&---------------------------------------------------------------------*
