@@ -1,3 +1,6 @@
+
+*" Date Modified: 2026-04-Apr 30, 2026
+*" Testing POC: Automated ABAP Code Import using AbapGit
 *&---------------------------------------------------------------------*
 *& Report YRASHA_ALV_REPORT
 *&---------------------------------------------------------------------*
@@ -21,7 +24,6 @@ TYPES: BEGIN OF ty_scarr,
 *-----Declaring work area and internal table---------------------------*
 DATA: wa_scarr TYPE          ty_scarr,
       it_scarr TYPE TABLE OF ty_scarr.
-
 
 DATA:
 *-----Declaring the field catalog work area & internal table-----------*
