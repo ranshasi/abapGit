@@ -1,6 +1,6 @@
 
-*" Date Modified: 2026-04-Apr 30, 2026
-*" Testing POC: Automated ABAP Code Import using AbapGit
+* Date Modified: 2026-04-Apr 30, 2026
+* Testing POC: Automated ABAP Code Import using AbapGit
 *&---------------------------------------------------------------------*
 *& Report YRASHA_ALV_REPORT
 *&---------------------------------------------------------------------*
